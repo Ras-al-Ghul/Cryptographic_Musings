@@ -1,13 +1,13 @@
-#Cryptographic Musings
+# Cryptographic Musings
 
-###To execute
+### To execute
 For *AKS.cpp*:  
 - `g++ AKS.cpp -lcln -o aks`
 - `./aks.out`  
 For *\*.py* files:  
 - `python filename.py`  
 
-###Notes
+### Notes
 - **AKS.py**  
 Implementation of the AKS primality testing algorithm in Python. This was pretty slow and hence a C++ implementation was also done. The link to the relevant paper <https://www.cse.iitk.ac.in/users/manindra/algebra/primality_v6.pdf>
 - **AKS.cpp**  
